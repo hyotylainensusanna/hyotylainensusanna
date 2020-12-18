@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Software Developer with 3+ years of experience in working in various projects. For the past three years, I have worked at Futurice as a consultant. I have a degree in Business Administration (Business Information Technology) and I'm currently doing my master's at Aalto University, majoring in Software and Service Engineering.
+I'm a Software Developer with 4+ years of experience in working in various projects. For the past three years, I have worked at Futurice as a consultant. I have a degree in Business Administration (Business Information Technology) and I'm currently doing my master's at Aalto University, majoring in Software and Service Engineering.
 
 I'm focused on frontend and interested in UX and accessibility and I have done projects mostly with React, Redux & Typescript. I'm also interested in company culture, change management & facilitation. 
 
