@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Software Developer with 7+ years of experience in working in various projects.
+I'm a Software Developer with 8+ years of experience in working in various projects.
 
 I'm focused on frontend and interested in Accessibility & Usability and I have done projects mostly with React, Redux & Typescript. I'm also interested in company culture, change management & facilitation. 
 
