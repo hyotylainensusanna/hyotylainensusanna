@@ -1,9 +1,9 @@
 # Hi everyone 👋
 
-## Short about me
+Short about me:
 
 - I'm a Senior Software Developer and CPWA-certified (Certified Professional in Web Accessibility)
-- I'm currently working on e-commerce platform which recently turned into a marketplace
+- I'm working on Finnish e-commerce platform which recently turned into a marketplace
 
 
 <!--
