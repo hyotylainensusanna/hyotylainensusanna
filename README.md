@@ -1,8 +1,10 @@
-### Hi there 👋
+# Hi everyone 👋
 
-I'm a Software Developer with 8+ years of experience in working in various projects.
+## Short about me
 
-I'm focused on frontend and interested in Accessibility & Usability and I have done projects mostly with React, Redux & Typescript. I'm also interested in company culture, change management & facilitation. 
+- I'm a Senior Software Developer and CPWA-certified (Certified Professional in Web Accessibility)
+- I'm currently working on e-commerce platform which recently turned into a marketplace
+
 
 <!--
 **hyotylainensusanna/hyotylainensusanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
